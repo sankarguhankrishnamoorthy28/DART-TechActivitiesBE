@@ -20,6 +20,13 @@ namespace EmployeeApp.Controllers
         //}
 
         [HttpPost]
+
+
+
+
+
+
+
         public IList<Employee> PostAllEmployees([FromBody]EmployeePost employeePost)
         {
             return employeeService.GetAllEmployees(employeePost.pageNumber, employeePost.sortOrder, employeePost.sortingColumn);
