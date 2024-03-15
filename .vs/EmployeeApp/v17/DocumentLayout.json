@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|c:\\users\\sankarguhankrishnamo\\source\\repos\\employeeapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|c:\\users\\sankarguhankrishnamo\\source\\repos\\employeeapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|c:\\users\\sankarguhankrishnamo\\source\\repos\\employeeapp\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|c:\\users\\sankarguhankrishnamo\\source\\repos\\employeeapp\\model\\employeepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|solutionrelative:model\\employeepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|c:\\users\\sankarguhankrishnamo\\source\\repos\\employeeapp\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|solutionrelative:service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|c:\\users\\sankarguhankrishnamo\\source\\repos\\employeeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|c:\\users\\sankarguhankrishnamo\\source\\repos\\employeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|c:\\users\\sankarguhankrishnamo\\source\\repos\\employeeapp\\employeeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6B051AE-D3C9-4A7B-A6EC-31AC95C59FBF}|EmployeeApp.csproj|solutionrelative:employeeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "Service\\EmployeeService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:28:48.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T14:18:03.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:39:08.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:11:39.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Model\\Employee.cs",
+              "RelativeToolTip": "Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:13:38.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeePost.cs",
+              "DocumentMoniker": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Model\\EmployeePost.cs",
+              "RelativeDocumentMoniker": "Model\\EmployeePost.cs",
+              "ToolTip": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Model\\EmployeePost.cs",
+              "RelativeToolTip": "Model\\EmployeePost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:41:17.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:17:48.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeApp.csproj",
+              "DocumentMoniker": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\EmployeeApp.csproj",
+              "RelativeDocumentMoniker": "EmployeeApp.csproj",
+              "ToolTip": "C:\\Users\\SankarGuhanKrishnamo\\source\\repos\\EmployeeApp\\EmployeeApp.csproj",
+              "RelativeToolTip": "EmployeeApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-06T14:27:30.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
